@@ -1,0 +1,419 @@
+<resources>
+    <string name="app_name">7. Auflage der Naturmethode</string>
+    <string name="title_activity_welcome">welcome</string>
+
+    <!--START Button_Strings-->
+    <string name="HOME">"Home"
+    </string>
+    <string name="ENGELSKREIS">"Engelskreis"
+    </string>
+    <string name="TEUFELSKREIS">"Teufelskreis"
+    </string>
+    <string name="HOMEPAGE">"VERSTA-Homepage"
+    </string>
+    <string name="GRUNDWISSEN">"Grundwissen"
+    </string>
+    <string name="NATURMETHODE">"Naturmethode"
+    </string>
+    <string name="ACTOR">"Autor"
+    </string>
+    <!--END Button_Strings-->
+
+    <!--START activity_main-->
+    <string name="Autor_one">"Beat Meichtry"</string>
+    <string name="Autor_two">" | Erwin Richter"</string>
+    <string name="Book_title_one">"Von der Sprechangst"</string>
+    <string name="Book_title_two">"zur Sprechfreude"</string>
+    <string name="Button_one">"Einführung"</string>
+    <string name="Button_two">""Engelskreis /\nTeufelskreis"</string>
+    <string name="Button_three">"Vorwort"</string>
+    <string name="Button_four">"Grundwissen"</string>
+    <string name="Book_description">"Lehrgang zur nachhaltigen Behandlung von "
+        "Sprechangst und des Symptoms «Stottern» basierend auf der natürlichen "
+        "Sprechweise"</string>
+    <!--END activity_main-->
+
+    <!--STRART activity_grounding.xml-->
+    <string name="Grundwissen_ueberschrift_gutzuwissen">"Gut zu wissen"
+    </string>
+    <string name="Grundwissen_absatz_gutzuwissen">"Bei Menschen mit Sprechvermeiden und "
+        "Sprechunflüssigkeiten ist der schwächste Punkt die Vorstellung, nicht sprechen zu können. "
+        "\nStotternde unterscheiden sich von fliessend Sprechenden ausschliesslich dadurch, dass "
+        "sich bei ihnen in Stresssituationen Symptome unterschiedlichster Ausprägung ausgebildet "
+        "haben und sich individuelle Muster entwickeln. "
+        "\nJe früher mit einer Behandlung begonnen werden kann, desto weniger haben sich unwillkürliche "
+        "Sprechmechanismen eingeschliffen und verfestigt."</string>
+    <string name="Grundwissen_ueberschrift_zwei">"Wem dient dieser Leitfaden?"
+    </string>
+    <string name="Grundwissen_absatz_zwei">"Personen und Gruppen, die sich mit Stottern, Sprech- "
+        "und Denkblockaden und weiteren Auffälligkeiten der Sprache auseinandersetzen."</string>
+    <string name="Grundwissen_ueberschrift_betroffene">"Betroffene:"
+    </string>
+    <string name="Grundwissen_absatz_betroffene">"Erhalten praxisorientierte Einführungen und "
+        "alltagstaugliche Anleitungen für die Verstärkung der freien Sprache. Gearbeitet wird wo "
+        "immer möglich in Gruppen. Gruppendynamik und alltagsorientierte Übungen motivieren, gute "
+        "Erfahrungen direkt in den Alltag zu transferieren. Dadurch erleben Menschen mit "
+        "Sprechvermeiden oder sprachlichen Unflüssigkeiten motivierende Erfolge. Alles steht jedem "
+        "offen, sobald er sich aus der Stress-Situation lösen kann und sich im Gleichgewicht befindet."</string>
+    <string name="Grundwissen_ueberschrift_angehörige">"Angehörige:"
+    </string>
+    <string name="Grundwissen_absatz_angehörige">"Begleiten die Betroffenen aktiv, indem sie von "
+        "diesen in den Veränderungsprozess einbezogen werden. So entstehen Erfolgspartnerschaften. "
+        "Dabei werden gegenseitig auch kleinste Veränderungen erkannt, ausgetauscht und miteinander "
+        "positiv erlebt."</string>
+    <string name="Grundwissen_ueberschrift_kinder">"Kinder:"
+    </string>
+    <string name="Grundwissen_absatz_kinder">"Bei Kindern wird altersgerecht und entsprechend ihrer "
+        "Entwicklung gearbeitet. Zusätzlich ist zu beachten: Bei Kindern ist eine entwicklungsbedingte "
+        "Redeunflüssigkeit, bis etwa zum 6. Lebensjahr, ein Teil der normalen Sprachentwicklung. "
+        "\nImmer ist die Aufmerksamkeit des Zuhörers auf die sachliche Mitteilung des Kindes zu richten. "
+        "Wenn der Leidensdruck des Kindes und/ oder der Eltern zu hoch ist, empfiehlt sich immer "
+        "eine kompetente Beratung durch Fachpersonen (z. B. über den Kontakt zur VERSTAGeschäftsstelle)."</string>
+    <string name="Grundwissen_ueberschrift_shg">"Selbsthilfegruppe und Lernpartnerschaften:"
+    </string>
+    <string name="Grundwissen_absatz_shg">"Es wird im Sinne der Hilfe zur Selbsthilfe "
+        "gearbeitet. Die Teilnehmenden wechseln sich innerhalb der Gruppe mit der Leitung motivierend "
+        "ab. Die Treffen werden durch den jeweiligen Leiter strukturiert und die Teilnehmenden "
+        "kollegial und feinfühlig angeleitet."</string>
+    <string name="Grundwissen_ueberschrift_therapeuten">"Therapeuten:"
+    </string>
+    <string name="Grundwissen_absatz_therapeuten">"Begleiten ihre Klienten möglichst über einen "
+        "längeren Zeitraum. Als optimaler Einstieg haben sich Gruppentherapien bewährt, um das "
+        "Vertrauen und die Freude an der eigenen Sprechfähigkeit wieder zu entdecken. Individuelle "
+        "Defizite werden anschliessend in Einzeltherapiesitzungen behandelt. "
+        "\nAls Beispiel besteht die Möglichkeit einer Kombination mit einem Intensiv-Seminar der "
+        "VERSTA. Bei 5 bis 8 Teilnehmenden können sich Gruppendynamik und Teilnehmeraktivität "
+        "gut entfalten."</string>
+    <string name="Grundwissen_ueberschrift_allgemein">"Allgemein"
+    </string>
+    <string name="Grundwissen_absatz_allgemein">"Auf der Grundlage der natürlichen Sprechweise wird "
+        "das Vorgehen jeweils an individuelle Voraussetzungen angepasst. "
+        "\nMit der Freude an der Sprache werden weitere Handlungsoptionen praxisorientiert und "
+        "individuell erarbeitet. Durch die gewonnene Sprechsicherheit wird die Selbstsicherheit "
+        "bewusst gefördert, was ein selbstbestimmtes aktives Leben ermöglicht. \nZur Optimierung der "
+        "Erfolge wird eine Begleitung in Form von Lernpartnerschaften, Selbsthilfegruppen "
+        "oder Therapiesitzungen mit regelmässigen Kontrollen durch eine geschulte Fachperson oder "
+        "einen VERSTA-Supervisor empfohlen. \n\nFür alle beteiligten Personen ist eine vernetzte "
+        "Zusammenarbeit eine Selbstverständlichkeit. Allgemeine Auskünfte zu Fragen erteilt der "
+        "Autor, die VERSTA-Geschäftsstelle oder die VERSTA-Supervisoren.\n\nWir wünschen viel "
+        "Erfolg und Freude auf dem Weg zur freien Sprache!"</string>
+    <!--END activity_grounding.xml-->
+
+
+    <!--START activity_circle_overview.xml-->
+    <string name="Konzept_wichtiges">"Vieles kann uns aus dem Gleichgewicht bringen, was sich "
+        "wiederum auf unsere Sprechweise auswirkt. Den Weg in das Gleichgewicht zeigt dieses Buch."
+    </string>
+    <string name="Konzept_absatz_eins">"Eine ruhige, flüssige Sprechweise ist ausschliesslich im "
+        "Gleichgewicht möglich. Wir wissen, dass jeder Mensch ohne organische Einschränkungen frei "
+        "sprechen kann. Gelingt es uns, einen Gedanken überzeugend, mit all unseren Möglichkeiten "
+        "von Körper, Atem und Spracheinsatz dem Gegenüber mitzuteilen, sind wir in der natürlichen "
+        "Sprechweise. Fehlschaltungen haben in diesem Modus keinen Platz."
+    </string>
+    <string name="gut_zu_wissen">"Gut zu wissen"
+    </string>
+    <string name="Konzept_absatz_zwei">"Jeder Versuch, die Erwartungsangst oder das Vermeidungsprogramm "
+        "zu beeinflussen, wirkt kontraproduktiv und hält das Symptom Stottern am Leben. Aus diesem "
+        "Grund sind Sprachübungsbehandlungen, die später wieder verlernt werden müssen, nicht nur "
+        "zwecklos, sondern im Grunde sogar sinnlos. Dies erkannte Helene Fernau Horn 1969."
+        "\n\nWenn uns etwas aus dem Gleichgewicht bringt, wird als Folge davon im körperlichen Bereich "
+        "als erstauftretendes Symptom die Atem- und Stimmgebungsblockade beobachtet. Dies ist nicht "
+        "als krankhaftes, pathologisch sprachliches Symptom zu bezeichnen, sondern beschreibt "
+        "lediglich einen logischen körperlichen Ablauf. Daher wird dies noch nicht als Störung "
+        "angesehen."
+        "\n\nMit dem Teufelskreis nach Helene Fernau Horn werden die Zusammenhänge, welche für die "
+        "Sprachvermeidung sowie Sprechunflüssigkeiten ursächlich sind, dargestellt."
+    </string>
+    <!--END activity_circle_overview.xml-->
+
+    <!--START activity_about_book.xml-->
+    <string name="Einführung_absatz_eins">"Die vorliegende Auflage wurde von Lisa Ryf, Hanspeter Burn "
+        "und Beat Meichtry überarbeitet und basiert auf den langjährigen praktischen Erfahrungen des "
+        "Autors Beat Meichtry. Ebenso sind die Rückmeldungen von Teilnehmenden der "
+        "Lenker-Intensivseminare, VERSTA-Lernpartnerschaften und -Selbsthilfegruppen sowie von "
+        "aktiven Einzelpersonen eingeflossen."
+        "\n\nDieses Werk wurde durch Frau Prof. Dr. phil. Andrea Haid, Rektorin der Schweizer Hochschule"
+        "für Logopädie Rorschach (SHLR), fachlich betreut und auf den Stand des Wissens überprüft."
+        "Weiter wurde der Text im Vergleich zur vorherigen Auflage auf einen Mehrwert für den Nutzer"
+        "überprüft."
+        "\n\nDer Aufbau des Buches orientiert sich an dem natürlichen Aufbau der Stimmgebung. Aus"
+        "diesem Grund haben wir auf Hilfsmittel verzichtet, die zu einem späteren Zeitpunkt wieder"
+        "abgelegt werden müssen."
+        "\n\nDieses Buch unterstützt Betroffene auf dem Weg zur freien Sprache, ohne zu versuchen, das"
+        "Symptom Stottern zu bekämpfen."
+        "\n\nAllgemeine Auskünfte und Fragen erteilen und beantworten der Autor, die VERSTA Geschäftsstelle"
+        "oder die VERSTA-Supervisoren."
+        "\n\nWeitere Informationen unter:"</string>
+    <!--END activity_about_book.xml-->
+
+    <!--START activity_about_autor.xml-->
+    <string name="Autor_absatz_eins">"In meiner über 60-jährigen Erfahrung mit eigenen Sprechängsten "
+        "und Stottersymptomen und einer intensiven Auseinandersetzung auf allen Ebenen, musste ich "
+        "zwangsläufig Erfahrungen sammeln. Zuerst als hilfesuchender Betroffener, der in ambulanten "
+        "und stationären Therapien gezwungen wurde sprachverändernde Kunstsprachen anzutrainieren "
+        "und dadurch beinahe die Freude am freien Sprechen verlor. Zum Glück wurde «nur» die Leidenszeit "
+        "verlängert, wodurch der unbändige Wunsch, die eigenen Gedanken sowie Meinungen frei "
+        "aussprechen zu können und die Widerstandskraft gestärkt wurden. Heute kann ich als Fachperson "
+        "anderen Menschen Auskunft und Hilfestellungen geben. Im Vordergrund steht die Hilfe zur "
+        "Selbsthilfe, also die vom Betroffenen gewünschte Unterstützung zu geben, damit er seinen "
+        "eigenen Weg gehen kann.\n\n"
+        "Bis zum Alter von 28 Jahren galt ich als therapieresistent. Die glückliche Wende wurde durch "
+        "den Kontakt mit meinem Mentor und Vorbild Norman Bush in der VERSTA eingeleitet. Dabei konnte "
+        "ich die aufgezeigten Wege, basierend auf Eigenverantwortung, umsetzen. Gestützt durch die "
+        "Selbsthilfe-Gruppe, SHG Zürich, ist es mir gelungen, Komponenten aus meinem langen Therapieweg "
+        "hilfreich einzusetzen. Entscheidend dabei war, dass ich mich aus meinem «symptomverlängernden» "
+        "Therapie-Korsett lösen konnte.\n\n"
+        "Ich erkannte, dass ich keine weiteren Sprechtechniken erlernen musste, um die lähmende "
+        "Erwartungsangst zu vermeiden. Mit der Naturmethode kam ich, wie später im Buch erklärt, mit "
+        "dem «Engelskreis» ins Gleichgewicht und zur Sprechfreude.\n\n"
+        "Die Erkenntnis war, dass wenn ich mich nicht gestresst fühle, ich mich auch nicht wie eine "
+        "dauernd gestresste Person aufführen muss. Das motivierte mich, mit der freien Sprache zu"
+        "experimentieren. Die Sprechfreude gewann zusehend an Bedeutung. Die Konzentration auf"
+        "das, was ich mitteilen möchte, liessen alle erfolglosen Einzeltherapie-Versuche, wie zum"
+        "Beispiel das Taktsprechen, in den Hintergrund treten. Das ermöglichte mir, immer mehr in"
+        "das sprachliche Gleichgewicht zu kommen. Parallel mit den Sprecherfolgen steigerte sich"
+        "die Sprechfreude und Selbstsicherheit.\n\n"
+        "Mein Wissen über die komplexen Zusammenhänge von Sprechängsten, dem Symptom"
+        "Stottern und weiteren Redeflussstörungen habe ich aus eigener Erfahrung, durch den Kontakt"
+        "mit anderen, aus der Beratung und Betreuung von Betroffenen und ihren Angehörigen"
+        "sowie aus der vernetzten Zusammenarbeit mit allen beteiligten Fachpersonen erworben."
+        "Das didaktische Wissen erarbeitete ich mir mit dem modularen Abschluss zum «Ausbilder"
+        "mit eidgenössischen Fachausweis». Um Personen zu begleiten, besuchte ich das Grundlagenmodul"
+        "Coaching-Ausbildung, SVEB-Modul III.\n\n"
+        "Zusätzlich habe ich eine krankenkassen-anerkannte Ausbildung als Seminarleiter für Autogenes"
+        "Training.\n\n"
+        "Das Organisieren von VERSTA-Vorträgen eröffnete mir Zugang zum aktuellen Wissensstand"
+        "der Forschung und erlaubte eine intensive Auseinandersetzung mit Therapieformen. Die"
+        "Vortragsreihe «Viele Wege führen zum Ziel (2010)» gab einen Überblick über alle aktuell im"
+        "deutschsprachigen Raum angebotenen Therapien, die direkt von Anbietern im In- und Ausland"
+        "vorgestellt wurden.\n\n"
+        "Interessanterweise wurden meine Erfahrungen durch Studien untermauert und bestätigt."
+        "Helene Fernau Horn schrieb bereits 1969: «Es war mir klar, dass sogenannte Sprachübungsbehandlungen"
+        "nicht nur zwecklos, sondern im Grunde sogar sinnlos sind». Therapien mit"
+        "dem Ziel die Sprache künstlich in ein Schema zu zwängen, verlängern nachweislich die"
+        "Leidensdauer von Betroffenen. Ausserdem haben auch die Arbeiten von Johannes Heinrich"
+        "Schulz und Gerhard Hüther mich auf meinem Weg begleitet.\n\n"
+        "Die Arbeit in Gruppen als alltagsnahe und unterstützende Trainingsmöglichkeit ist effizient."
+        "Es zeigt die normalen Stärken und Schwächen der Teilnehmenden auf. Jeder ist ein Teil des"
+        "Erfolgs und wird in Krisen von der Gruppe getragen.\n\n"
+        "Nun wünschen wir dir, allen Betroffenen, Angehörigen und Fachpersonen viel Erfolg auf"
+        "dem Weg zur freien Sprache!\n\n\n"
+        "Beat Meichtry\n"
+        "Ausbilder mit eidgenössischem Fachausweis\n"
+        "Grundlagenmodul Coaching, SVEB-Modul III\n"
+        "Seminarleiter für Autogenes Training\n\n"
+        "Lenk, im Mai 2019"</string>
+    <!--END activity_about_autor.xml-->
+
+    <!--START activity_foreword.xml-->
+    <string name="Vorwort_ueberschrift">"Der Weg zum fliessenden Sprechen.\nFreude der freien Sprache erleben."
+    </string>
+    <string name="Vorwort_absatz_zwei">"Die VERSTA hat in den letzten Jahren viel Wissen und "
+        "Erfahrung über das Stottern gesammelt. Einerseits beruht dieser Erfahrungsreichtum auf der "
+        "intensiven Zusammenarbeit mit Betroffenen und Angehörigen, anderseits auf der regelmässigen "
+        "Zusammenarbeit mit Fachpersonen und Institutionen."
+        "\n\nDieses Buch unterstützt Betroffene auf dem Weg zur freien Sprache, ohne zu versuchen, "
+        "das Symptom Stottern zu bekämpfen."
+        "\nIm Wissen, dass sich jeder Betroffene auch als fliessend Sprechender kennt, werden diese "
+        "Momente des freien Sprechens vermehrt. Die brachliegenden bzw. ruhenden Kompetenzen werden "
+        "freigelegt. Betroffene erleben, dass in ihnen grosse sprachliche Möglichkeiten schlummern."
+        "\nWo immer möglich, werden positive Erfahrungen gestärkt. Die «neuen Sprecherfahrungen» werden "
+        "in Partnerschaften trainiert und schrittweise in den Alltag transferiert.\n\n"
+        "Der Versuch den in diesem Buch beschriebenen Ansatz in eine bekannte Therapiekategorie des "
+        "Stotterns zuzuordnen ist überflüssig, da der Ansatz inhaltlich unabhängig von anderen Ansätzen "
+        "ist. Das Ziel ist es aus der erhöhten Spannung in eine Normalspannung, das"
+        "Gleichgewicht, zu kommen."
+        "\n\nDie Sprachwissenschaftlerin Helene Fernau Horn beschrieb bereits 1969 ihre konkreten Erfahrungen: "
+        "«Es war mir klar, dass sogenannte Sprachübungsbehandlungen nicht nur zwecklos, sondern im "
+        "Grunde sogar sinnlos sein müssen; denn fast jeder Stotterer kann in der einen oder anderen "
+        "Situation, mit diesem oder jenem Menschen, auch für sich allein recht gut oder sogar "
+        "fliessend sprechen»."
+        "\nJohannes Heinrich Schulz beschrieb 1969 als Psychiater und unabhängiger Psychotherapeut: "
+        "«Plötzlich auftauchende Versagensvorstellungen lösen folgenschwere Gemütserregungen aus, "
+        "die eine reflexartige Atemblockierung bewirken, automatisch wird der Sprechakt unterbrochen, "
+        "und aus Atem- und Tonhemmung wird eine Sprechhemmung.»"
+        "\n\nAktuelle Hirnforschungen bestätigen die Erkenntnisse von Fernau Horn und Schulz. Der "
+        "Hirnforscher Gerhard Hüther (2005) beschreibt, wie Stress momentane Gefühle auslöst. Diese "
+        "Gefühle werden durch neue Erkenntnisse relativiert und unbedeutend, so wie ein Weg, der "
+        "nicht mehr benützt wird, zuwächst."</string>
+    <string name="Vorwort_bildquelle">"(Quelle: zvg / seawhisper)"
+    </string>
+    <string name="Vorwort_absatz_drei">"Diese Methode wird seit dreissig Jahren an den Lenker "
+        "Intensivseminaren angewendet. Der Ansatz von der Sprechangst zur Sprechfreude ist mit den "
+        "meisten Therapiemethoden kompatibel."</string>
+    <!--END activity_foreword.xml-->
+
+    <!--START vicious_circle_foreword.xml-->
+    <string name="Teufelskreis">"Teufelskreis"
+    </string>
+    <string name="Teufelskreis_bildquelle">"Teufelskreis nach Helene Fernau Horn"
+    </string>
+    <string name="Teufelskreis_beschreibung">"Helene Fernau Horn zeigt mit dem Teufelskreis "
+        "beziehungsweise dem Hemmungszirkel, wie sie ihn nannte, die Zusammenhänge von Körper und "
+        "Geist, also eine psycho-somatische Wechselwirkung, auf."</string>
+    <string name="Teufelskreis_erwartungsangst">"Ungünstige Abläufe werden im Teufelskreis mit den "
+        "roten, gezackten Punkten dargestellt. Als Folge dieser Abhängigkeiten entwickelt sich eine "
+        "Erwartungsangst, die sich unweigerlich in zwei logischen Gesetzmässigkeiten fortsetzt: "
+        "\n1. Gespannte Aufmerksamkeit, Schreck und/oder Angst führen zu einer reflexartigen Atemblockierung. "
+        "\n2. Einschränkungen des natürlichen Atems haben einen blockierenden Einfluss auf die Ton- "
+        "und Stimmbildung."</string>
+    <string name="Teufelskreis_absatz_eins">"Jede Person wird in ausserordentlichen Situationen "
+        "und/oder extremem Stress von diesen aufgezeigten Abläufen beeinträchtigt. Solange diese "
+        "Beeinträchtigung eine Ausnahme darstellt, bleibt sie ohne Folgen und wird nicht weiter "
+        "beachtet. In jeder seelischen Notlage zeigt sich ein Problem durch eine nicht direkt "
+        "beeinflussbare Körperreaktion, wie das Erröten, Atem- und Sprechblockaden."
+        "\n\nRichten wir unser Augenmerk auf Kommunikationsstörungen, speziell die Sprechvermeidung "
+        "und das Stottern, kann sich ein Symptom entwickeln, dass sich durch unnatürliche, "
+        "meist spannungsreiche Sprechabläufe manifestiert und mit der Zeit als Teil der eigenen "
+        "Identität anerkannt und verfestigt wird. Es wird in der Fachliteratur als Hemmungsspirale "
+        "dargestellt. "
+        "\nDaraus haben sich zwei Sprechprogramme gebildet, die, einmal ausgelöst, autonom und "
+        "zuverlässig funktionieren, wobei infolge der Erwartungshaltung ein enorm schnelles Umschalten "
+        "in das «Stressprogramm» das vorhandene Programm «Sprechfreude» überlagert."
+        "\n\nDie betroffene, sich bedroht fühlende Person entwickelt eine Art paralleles, zweites individuelles "
+        "pathologisches unnatürliches Sprechverhalten, welches ausschliesslich in diesen "
+        "Stresssituationen auftritt. "
+        "\n\nDiese Redeunflüssigkeiten sind Störungen des Sprechablaufs, die zu Wiederholungen von "
+        "Lauten, Silben und Wörtern bis zu einer völligen Sprechblockade und Sprechabbruch führen "
+        "können."
+        "\nJe störender das Symptom ist und den Sprechenden ärgert, desto mehr Spuren kann es im "
+        "psychischen Bereich, der «Software», hinterlassen. Negative Erfahrungen prägen das Störungsbewusstsein."
+        "In der Folge versucht die Software, mögliche Schäden abzuwenden, und schaltet auf Abwehr.</string>
+    <string name="Teufelskreis_ueberschrift_zwei">"Die Absicht, uns vor Schaden zu bewahren, löst in "
+        "uns das Stress-Programm «Erwartungsangst» aus."</string>
+    <string name="Teufelskreis_abschnitt_zwei">"Ein Beispiel einer «Erwartungsangst»: Wenn man läuft "
+        "und dabei stolpert, wird das als normal angesehen. Erst wenn die Angst vor einem möglichen "
+        "Sturz wächst, wird ein übergelagertes Schutzsystem, das sich durch Erwartungsangst zeigt, "
+        "als Vermeidungsprogramm aktiviert. Diese hat den Zweck, den Menschen vor einem grösseren "
+        "Schaden zu bewahren. Je öfter man fällt, desto grösser wird diese Angst. Wie beim Sprechen "
+        "beruht das Gehen auf eintrainierten, komplexen Abläufen. Diese werden nicht bewusst "
+        "gesteuert, da die Komplexität extrem gross ist. "
+        "\n\nErgänzend kommt die Erwartungshaltung des Gegenübers hinzu. Der Betroffene möchte "
+        "seine Vielfalt an Informationen (inneren Bildern) einem Gegenüber mitteilen. Der Zuhörer "
+        "kann dem Erzähler helfen, indem er seine Aufmerksamkeit auf den sachlichen Inhalt der "
+        "Mitteilung lenkt. So unterstützt er am besten die Entwicklung vom einzelnen Laut zur Silbe "
+        "sowie zu einem Satz und weiter zu einer Geschichte. "
+        "\n\nInteressant ist, dass nicht alle Ereignisse die «Erwartungsangst» auslösen. Entscheidend ist "
+        "die Tatsache, dass sobald das Programm «Erwartungsangst» ausgelöst wird, unweigerlich "
+        "das individuelle Vermeidungsmuster entsteht und der Teufelskreis beginnt."</string>
+    <string name="Teufelskreis_abschnitt_drei">"Du kannst ruhig versuchen, am Symptom zu arbeiten, "
+        "das heisst, über eine Manipulation der Sprechweise, z. B. dem Taktsprechen, dich vom "
+        "Symptom der «Stotterangst» abzulenken. Dabei wird aber ein wichtiger Faktor, nämlich die "
+        "Fixierung auf die Sprechangst, im Teufelskreis vernachlässigt. Diese Fixierung schaltet uns "
+        "auf den «Vermeidungsmodus», respektive in den bereits beschriebenen Teufelskreis um, und "
+        "der Betroffene kann sich ausschliesslich so verhalten wie jemand, der aus dem Gleichgewicht "
+        "geraten ist. "
+        "\n\nDie Erkenntnis, dass der Teufelskreis nicht immer ausgelöst werden muss, erlebte der Autor "
+        "Beat Meichtry selbst. Auf Anfrage Betroffener entstanden die modularen Intensivseminare, "
+        "in denen versucht wurde, den Weg zur freien Sprache bildlich darzustellen. "
+        "\nAus diesem Bedürfnis heraus entwickelte Meichtry den Engelskreis. Dieser stellt die Zusammenhänge "
+        "des angestrebten freien Sprechprogramms dar."</string>
+    <!--END vicious_circle_foreword.xml-->
+
+    <!--START angel_circle_foreword.xml-->
+    <string name="Engelskreis_bildquelle">"Engelskreis nach Beat Meichtry"
+    </string>
+    <string name="Engelskreis_beschreibung">"Im Engelskreis befinden wir uns im Gleichgewicht."
+    </string>
+    <string name="Engelskreis_gleichgewicht">"Günstige Abläufe werden im Engelskreis mit den grünen "
+        "Wolken dargestellt. Als Folge von neuen, positiven Erlebnissen über die Hardware entwickelt "
+        "sich in der Software das Bewusstsein «Ich habe Sprechfreude und Sprechlust». "
+        "\n1. Dies führt zu einer entspannten Bauch-Atmung, die das Gefühl von Ruhe und Sicherheit auslöst. "
+        "\n2. Diese Grundeinstellung motiviert, Ideen, Meinungen oder Antworten, in einer sicheren, "
+        "durch Gesten gesteuerten, überzeugenden Sprechgewandtheit und Sprechfreude "
+        "mitzuteilen. "
+        "\nÜber den Engelskreis wird die Sprache in Komponenten zerlegt, um herauszufinden, welche "
+        "für die Kommunikation notwendige n Fähigkeiten vorhanden sind. Die meisten Betroffenen "
+        "erleben, dass eine bemerkenswerte Sprachkompetenz vorhanden ist."</string>
+    <string name="Engelskreis_absatz_eins">"Das Erleben einer guten, sicheren Sprachkompetenz wird "
+        "durch rhetorische Übungen verstärkt und als Erfolgserlebnis abgespeichert. Folgerichtig wird "
+        "der blockierenden Erwartungsangst die «Nahrung» entzogen. "
+        "\n\nDurch den Gewinn, immer öfters frei sprechen zu können, wird in der Software die Sprechsicherheit "
+        "gestärkt. Ein zeitnaher Transfer in Alltagssituationen verstärkt dieses gute "
+        "Gefühl. Die Sprechfreude und die Lust an der Sprache werden vermehrt, was wiederum das "
+        "Programm «Sprechfreude» nährt und wichtiger macht."</string>
+    <string name="Engelskreis_ueberschrit_zwei">"Sing- und Sprechmelodie:"
+    </string>
+    <string name="Engelskreis_absatz_zwei">"Die Mehrzahl betroffener Personen erleben beim Singen, "
+        "oder wenn sie sich alleine im Raum befinden, das Gefühl der freien Sprache. "
+        "\nSingen und Sprechen sind in organischer Beziehung zwei gleiche Funktionen. Es werden "
+        "dieselben Organe und Muskeln benutzt. "
+        "\n\nDas Singen ist ein natürlicher Vorgang. Willst du gesanglich etwas vortragen, so erinnerst du "
+        "dich an die Melodie. Die Melodie ist eine definierte Abfolge von Tönen, die es zu treffen gilt. "
+        "Durch die Zentrierung auf die Einhaltung dieser Töne verfolgst du einen genau vorgeschriebenen "
+        "Ablauf, ein Programm. "
+        "\nViele Melodien sind ausserdem zusätzlich in deiner Erinnerung aufbewahrt und mit guten "
+        "Erlebnissen verbunden. Durch das Abrufen dieses Programms wird ein Voraushören der "
+        "passenden Töne angestrebt. Es werden direkt alle notwendigen Automatismen zur Singmelodie "
+        "eingeleitet. In der Naturmethode wird bei der Bildung der Sprechmelodie gleich "
+        "vorgegangen, und diese wird mit der gleichen Begeisterung beim Sprechen eingesetzt. "
+        "\nNebst der Bildung der Sprache sichern wir den Sprechklang bewusst ab. Einerseits findet "
+        "die Absicherung des Schalls über das Gehör statt, andererseits durch das Wahrnehmen der "
+        "Vibrationen über die knöchernen Verbindungen. "
+        "\n\nEs wirkt unterstützend, wenn der Coach/Therapeut wie auch die Bezugsperson mit einer "
+        "ruhigen, bewussten, natürlichen, mit Gestik gesteuerten Stimme klangvoll sprechen. Dadurch "
+        "kann auch der Betroffene dies als Vorbild übernehmen. In Folge erlebt der Betroffene, "
+        "wie sich diese Ruhe vorteilhaft auswirkt und übernimmt diese schrittweise automatisch. "
+    </string>
+    <string name="Engelskreis_ueberschrit_drei">
+        "Im Engelskreis hat die Redeflussstörung schlicht keinen Platz, da die ganzen Ressourcen zur "
+        "Produktion von überzeugenden Botschaften verwendet werden. "
+    </string>
+    <string name="Engelskreis_absatz_drei">
+        "Durch Training werden Erfahrungen sowohl in der verbalen wie in der nonverbalen Kommunikation "
+        "gestärkt. Dabei steht das Zurückgewinnen der Sprechfreude und der Sprechlust "
+        "durch die Möglichkeit, sich sprachlich differenziert ausdrücken zu können, im Zentrum. Es "
+        "wird für den Sender, den Sprechenden, sowie für den Empfänger, den Zuhörer, eine Freude. "
+        "\n\nParallel zu neuen Sprecherlebnissen trainieren wir schrittweise die Reduktion von einer "
+        "hohen in eine tiefere Spannung über den Einsatz von eintrainierten Techniken. Es sind "
+        "verschiedene Techniken möglich. "
+        "In unserem Kulturkreis hat sich das autogene Training bewährt, das von Dr. med. J.H. Schulz "
+        "im 20. Jahrhundert entwickelt wurde und die Grundlage von Suggestionstechniken bildet. "
+        "Diese dienen zur Verstärkung des Erlebens: "
+        "«Ich werde sprachlich immer freier.» Das Programm «Sprechfreude» wird gestärkt, das "
+        "Programm «Erwartungsangst» verliert die lähmende Wirkung. "
+        "\n\nJederzeit ist es möglich, dass innere oder äussere Beeinflussung Erwartungsangst auslöst. "
+        "Infolge dessen werden alte, unkoordinierte Muster wieder aktiviert und lösen die bekannte "
+        "individuelle Stotter-Symptomatik blitzschnell aus. Rückfälle, die jedem jederzeit passieren "
+        "können."</string>
+    <string name="Engelskreis_ueberschrift_vier">"Für diesen Fall werden folgende Trainingseinheiten angeboten:"
+    </string>
+    <string name="Engelskreis_absatz_vier">"Durch das Arbeiten mit dem Buch setzen wir eine Basis "
+        "von Sprechsicherheit. Durch laufenden Transfer in den Alltag wird diese bewusstgemacht und "
+        "dadurch abgesichert. Das ist die Grundlage der neuen Sprechsicherheit und Sprechfreude. "
+        "Dieses gute Gefühl stärkt, und Rückfälle gewinnen keine Bedeutung mehr. "
+        "\n\nDurch die medizinische Entwicklung, besonders in den bildgebenden Verfahren, können "
+        "Abläufe im Hirn nachgewiesen werden. Wenn du etwas regelmässig machst, bilden sich im "
+        "Gehirn Verschaltungen. Wenn wir in der Sprache immer wieder positive Erfahrungen "
+        "machen, vergessen wir die negativen Erfahrungen und gelangen in die freie Sprache. "
+        "\nDie im Alltag erlebten Veränderungen können aus neurobiologischer Sicht mit Strassen "
+        "verglichen werden. Am Anfang ist es nur ein kleiner Trampelpfad. Wenn die Verknüpfungen "
+        "öfters «benutzt werden», werden diese Wege ein immer breiter und werden schliesslich zu "
+        "einer Autobahn. Umgekehrt können wenig benützte Strassen verkümmern und zuwachsen, "
+        "wenn diese Verschaltungen nicht mehr verwendet werden. "
+        "\nDie menschlichen Entwicklungsphasen sind einzigartig. Grundlage jeder Entwicklung ist "
+        "der Drang, neue Erkenntnisse zu machen. Dadurch vermehren sich die jeweiligen Möglichkeiten, "
+        "die sogenannten Handlungsoptionen. Erst mehrere Handlungsoptionen ermöglichen "
+        "eine Wahl. Wie in der Natur wird der am besten nutzbare Weg mit dem geringsten "
+        "Widerstand ausgesucht. "
+        "\nWenn es einem gelingt, beim Sprechen dem Gehirn einen besseren Weg anzubieten, wird es "
+        "diesen gerne annehmen und nach und nach die Normalsprache übernehmen. Unser Lehrgang "
+        "zielt ausdrücklich darauf hin, Redeflussstörungen nicht unmöglich, sondern unnötig "
+        "zu machen. Betrachten wir eine Trainingseinheit: Im Speicher des Menschen befindet sich "
+        "eine Unmenge von Vorstellungen. Diese Gedanken jemandem mitzuteilen, benötigt eine "
+        "Vielzahl von notwendigen Teilschritten. Diese Koordination wird immer durch emotionale "
+        "Umstände beeinflusst. Dies widerspiegelt die Persönlichkeit und macht uns einzigartig. "
+        "Zusätzlich erleben die meisten in Stressmomenten eine momentane Sprachlosigkeit, "
+        "sobald der Druck weg ist. "
+        "\nDurch Rückfälle, die jedem passieren, werden alte Verschaltungen wieder aktiviert und lösen "
+        "unkoordinierte Bewegungsmuster in Form einer individuellen Stotter-Symptomatik blitzschnell "
+        "aus. "
+        "\n\nDies sahen schon Rudolf Denhardt, Ronald Muirden, Erwin Richter und Norman Bush. Auch "
+        "die Erfahrungen, die der Autor Beat Meichtry als Betroffener persönlich als auch seit 1988 "
+        "als Kursleiter in den Intensiv-Modulen der VERSTA macht, bestätigen diese Erkenntnis."</string>
+    <!--END angel_circle_foreword.xml-->
+
+
+    <string name="action_settings">Settings</string>
+</resources>
+

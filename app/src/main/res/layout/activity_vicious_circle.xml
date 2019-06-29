@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViciousCircle">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_light"
+            android:padding="16dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/teufelskreis_image"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:contentDescription="@string/TEUFELSKREIS"
+                    android:scaleType="center"
+                    android:src="@drawable/teufelskreis_white" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="22dp"
+                    android:text="@string/Teufelskreis_bildquelle"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_beschreibung"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_erwartungsangst"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_absatz_eins"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="#BEC5C5"
+                android:padding="8dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_ueberschrift_zwei"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_abschnitt_zwei"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="@string/gut_zu_wissen"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="@string/Teufelskreis_abschnitt_drei"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/home_button"
+                    style="@android:style/Widget.Holo.Button.Toggle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/HOME" />
+
+                <Button
+                    android:id="@+id/angle_circle_button"
+                    style="@android:style/Widget.Holo.Button.Toggle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ENGELSKREIS" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+</ScrollView>
