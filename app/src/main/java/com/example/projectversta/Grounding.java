@@ -66,7 +66,6 @@ public class Grounding extends AppCompatActivity {
         final TextView P = X;
         O.setOnClickListener(new View.OnClickListener() {
             boolean z = true;
-
             @Override
             public void onClick(View v) {
                 if (z == true) {

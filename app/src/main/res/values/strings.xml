@@ -2,7 +2,7 @@
     <string name="app_name">7. Auflage der Naturmethode</string>
     <string name="title_activity_welcome">welcome</string>
 
-    <!--START Button_Strings-->
+    <!--START Button_and_AndroidManifest_Strings-->
     <string name="HOME">"Home"
     </string>
     <string name="ENGELSKREIS">"Engelskreis"
@@ -17,23 +17,49 @@
     </string>
     <string name="ACTOR">"Autor"
     </string>
-    <!--END Button_Strings-->
+    <string name="Conzept">""1.1 Konzept
+    </string>
+    <string name="FOREWORD">"Vorwort"
+    </string>
+    <string name="AboutActor">"Über den Autor"
+    </string>
+    <string name="AboutBook">"Über das Buch"
+    </string>
+    <!--END Button_and_AndroidManifest_Strings-->
 
     <!--START activity_main-->
-    <string name="Autor_one">"Beat Meichtry"</string>
-    <string name="Autor_two">" | Erwin Richter"</string>
-    <string name="Book_title_one">"Von der Sprechangst"</string>
-    <string name="Book_title_two">"zur Sprechfreude"</string>
-    <string name="Button_one">"Einführung"</string>
-    <string name="Button_two">""Engelskreis /\nTeufelskreis"</string>
-    <string name="Button_three">"Vorwort"</string>
-    <string name="Button_four">"Grundwissen"</string>
+    <string name="Autor_one">"Beat Meichtry"
+    </string>
+    <string name="Autor_two">" | Erwin Richter"
+    </string>
+    <string name="Book_title_one">"Von der Sprechangst"
+    </string>
+    <string name="Book_title_two">"zur Sprechfreude"
+    </string>
+    <string name="Button_one">"Einführung"
+    </string>
+    <string name="Button_two">""Engelskreis /\nTeufelskreis"
+    </string>
+    <string name="Button_three">"Vorwort"
+    </string>
+    <string name="Button_four">"Grundwissen"
+    </string>
     <string name="Book_description">"Lehrgang zur nachhaltigen Behandlung von "
         "Sprechangst und des Symptoms «Stottern» basierend auf der natürlichen "
         "Sprechweise"</string>
     <!--END activity_main-->
 
     <!--STRART activity_grounding.xml-->
+    <string-array name="Grundwissen_GutZuWissen">
+        <item>Gut zu wissen</item>
+        <item>"Bei Menschen mit Sprechvermeiden und "
+            "Sprechunflüssigkeiten ist der schwächste Punkt die Vorstellung, nicht sprechen zu können. "
+            "\nStotternde unterscheiden sich von fliessend Sprechenden ausschliesslich dadurch, dass "
+            "sich bei ihnen in Stresssituationen Symptome unterschiedlichster Ausprägung ausgebildet "
+            "haben und sich individuelle Muster entwickeln. "
+            "\nJe früher mit einer Behandlung begonnen werden kann, desto weniger haben sich "
+            "unwillkürliche Sprechmechanismen eingeschliffen und verfestigt."</item>
+    </string-array>
     <string name="Grundwissen_ueberschrift_gutzuwissen">"Gut zu wissen"
     </string>
     <string name="Grundwissen_absatz_gutzuwissen">"Bei Menschen mit Sprechvermeiden und "
@@ -415,5 +441,9 @@
 
 
     <string name="action_settings">Settings</string>
+
+    <string name="title_activity_angel_circle_fullscreen">AngelCircleFullscreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
 

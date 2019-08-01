@@ -11,28 +11,34 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-
+        <activity
+            android:name=".AngelCircleFullscreen"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_angel_circle_fullscreen"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape"
+            />
         <activity
             android:name=".AngelCircle"
             android:label="@string/ENGELSKREIS" />
         <activity
             android:name=".CircleOverview"
-            android:label="1.1 Konzept" />
+            android:label="@string/Conzept" />
         <activity
             android:name=".ViciousCircle"
             android:label="@string/TEUFELSKREIS" />
         <activity
             android:name=".Grounding"
-            android:label="Grundwissen" />
+            android:label="@string/GRUNDWISSEN" />
         <activity
             android:name=".Foreword"
-            android:label="Vorwort" />
+            android:label="@string/FOREWORD" />
         <activity
             android:name=".AboutActor"
-            android:label="Über den Autor" />
+            android:label="@string/AboutActor" />
         <activity
             android:name=".AboutBook"
-            android:label="Über das Buch" />
+            android:label="@string/AboutBook" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">
